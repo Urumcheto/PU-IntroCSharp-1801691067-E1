@@ -1,0 +1,11 @@
+C:\Users\Mitaka\Desktop\Exam1\PU-IntroCSharp-1801691067-E1\PU-IntroCSharp-1801681067\RectangleArea\bin\Debug\netcoreapp2.1\RectangleArea.deps.json
+C:\Users\Mitaka\Desktop\Exam1\PU-IntroCSharp-1801691067-E1\PU-IntroCSharp-1801681067\RectangleArea\bin\Debug\netcoreapp2.1\RectangleArea.runtimeconfig.json
+C:\Users\Mitaka\Desktop\Exam1\PU-IntroCSharp-1801691067-E1\PU-IntroCSharp-1801681067\RectangleArea\bin\Debug\netcoreapp2.1\RectangleArea.runtimeconfig.dev.json
+C:\Users\Mitaka\Desktop\Exam1\PU-IntroCSharp-1801691067-E1\PU-IntroCSharp-1801681067\RectangleArea\bin\Debug\netcoreapp2.1\RectangleArea.dll
+C:\Users\Mitaka\Desktop\Exam1\PU-IntroCSharp-1801691067-E1\PU-IntroCSharp-1801681067\RectangleArea\bin\Debug\netcoreapp2.1\RectangleArea.pdb
+C:\Users\Mitaka\Desktop\Exam1\PU-IntroCSharp-1801691067-E1\PU-IntroCSharp-1801681067\RectangleArea\obj\Debug\netcoreapp2.1\RectangleArea.csprojAssemblyReference.cache
+C:\Users\Mitaka\Desktop\Exam1\PU-IntroCSharp-1801691067-E1\PU-IntroCSharp-1801681067\RectangleArea\obj\Debug\netcoreapp2.1\RectangleArea.csproj.CoreCompileInputs.cache
+C:\Users\Mitaka\Desktop\Exam1\PU-IntroCSharp-1801691067-E1\PU-IntroCSharp-1801681067\RectangleArea\obj\Debug\netcoreapp2.1\RectangleArea.AssemblyInfoInputs.cache
+C:\Users\Mitaka\Desktop\Exam1\PU-IntroCSharp-1801691067-E1\PU-IntroCSharp-1801681067\RectangleArea\obj\Debug\netcoreapp2.1\RectangleArea.AssemblyInfo.cs
+C:\Users\Mitaka\Desktop\Exam1\PU-IntroCSharp-1801691067-E1\PU-IntroCSharp-1801681067\RectangleArea\obj\Debug\netcoreapp2.1\RectangleArea.dll
+C:\Users\Mitaka\Desktop\Exam1\PU-IntroCSharp-1801691067-E1\PU-IntroCSharp-1801681067\RectangleArea\obj\Debug\netcoreapp2.1\RectangleArea.pdb
